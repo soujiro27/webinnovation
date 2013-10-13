@@ -1,0 +1,32 @@
+body
+{
+	background: #dadadc;
+	font-family: Arial;
+	font-size: 16px;
+
+}
+header 
+{
+	background: white;
+	margin: 0;
+	padding: 0;
+}
+
+header figure
+{
+	display: inline-block;
+	padding: .5em 0 .5em .5em;
+	width: 25%;
+}
+
+header figure img
+{
+	width: 126px;
+}
+
+header hgroup
+{
+	display: inline-block;
+	width: 65%;	
+}
+
