@@ -19,9 +19,10 @@ footer
 	color: white;
 	text-align: center;
 	font-family: 'Michroma', sans-serif;
-	font-size: .8em;
+	font-size: 1.5em;
+	padding: 1em;
 }
-}
+
 
 header
 {
@@ -77,4 +78,5 @@ nav ul li a
 	display: block;
 	font-weight: bold;
 	font-family: 'Geo', sans-serif;
+	font-size: 1.5em;
 }
